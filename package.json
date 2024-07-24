@@ -2,6 +2,9 @@
   "name": "react-dropdown",
   "version": "0.0.1",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/k-sornalakshmi"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
